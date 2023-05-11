@@ -1,0 +1,54 @@
+nav{
+    color: white;
+    height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.fa-fade{
+    font-size: 20px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 20px;
+  
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+h4{
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+button{
+ background-color: red;
+ color: white;
+ padding: 15px;
+ margin-top: 20px;
+margin-left: 40px;
+border-radius: 20px;
+width: 100px;
+ 
+}
+select{
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: black;
+}
+option{
+    background-color: white;
+    color: black;
+}
+main{
+    margin-left: 200px;
+}
